@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "false"
 resume_name:                    "Артём Полик"
-resume_title:                   "Позиция: Java разработчик"
+resume_title:                   "Желаемая должность: Java-разработчик"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "lodjdheheu@gmail.com"
@@ -20,10 +20,10 @@ resume_contact_email:           "lodjdheheu@gmail.com"
 resume_contact_telephone:       "+7 (915) 186-39-37"
 resume_contact_address:         "lodjdheheu@gmail.com"
 
-resume_header_contact_info:     "Москва • тел / WhatsApp / Telegramm +7 (915) 186-39-37 • lodjdheheu@gmail.com"
+resume_header_contact_info:     "г. Москва • тел / WhatsApp / Telegram +7 (915) 186-39-37 • lodjdheheu@gmail.com"
 display_header_contact_info:    "true"
 
-resume_header_intro: "<p>This is the executive summary. You should write a few brief, concise, and meaningful sentences about yourself from a professional context, and your immediate career goals. Make the length appropriate for your needs, but keep it brief and concise</p>"
+resume_header_intro: "<p>Проживаю: г. Москва</p><p>Занятость: полная занятость</p><p>График работы: удаленная работа, гибкий график, полный день, сменный график</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
