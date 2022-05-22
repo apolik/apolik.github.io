@@ -1,5 +1,5 @@
 # Site settings
-title: "Резюме"
+title: "Артём Поликарпов Резюме"
 description: ""
 
 # Build settings
@@ -10,7 +10,7 @@ sass:
 
 # Resume settings
 resume_avatar:                  "false"
-resume_name:                    "Артём Полик"
+resume_name:                    "Артём Поликарпов"
 resume_title:                   "Желаемая должность: Java-разработчик"
 
 # used for the contact button in _layouts/resume.html
