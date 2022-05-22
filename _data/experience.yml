@@ -4,7 +4,7 @@
 - company: <a href="https://www.udemy.com/course/spring-framework-5-beginner-to-guru/">Spring Framework 5 Beginner to Guru</a>
   position:
   duration: 02.2022 &mdash; текущее время
-  summary: Learn Spring with the most modern and comprehensive course available for Spring Framework 5 and Spring Boot 2. You will see how to build multiple real world applications using Spring Framework 5. Inside Course: <ul class="resume-item-list"><li>Spring Boot 2, Spring Data JPA, Spring MVC, Spring MockMVC, Spring WebFlux, Spring Web Client, Spring Data MongoDB, Spring RestDocs</li><li>Hibernate, Project Lombok, MapStruct, Docker</li><li>Maven, Gradle, JUnit 4 and JUnit 5, Mockito</li></ul>
+  summary: Learn Spring with the most modern and comprehensive course available for Spring Framework 5 and Spring Boot 2. You will see how to build multiple real world applications using Spring Framework 5. Inside Course <ul class="resume-item-list"><li>Spring Boot 2, Spring Data JPA, Spring MVC, Spring MockMVC, Spring WebFlux, Spring Web Client, Spring Data MongoDB, Spring RestDocs</li><li>Hibernate, Project Lombok, MapStruct, Docker</li><li>Maven, Gradle, JUnit 4 and JUnit 5, Mockito</li></ul>
   
 - company: <a href="http://javaops.ru/view/topjava">Стажировка TopJava Enterprise Java-разработчик</a>
   position:
