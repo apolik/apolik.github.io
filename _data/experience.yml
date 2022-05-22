@@ -1,9 +1,9 @@
 # Jobs
 # VP of Global Communications
-- company: Springfield International Human Rights Outreach
-  position: VP of Global Communications
-  duration: Oct, 2013 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+- company: TopJava Enterprise Java-разработчик
+  position:
+  duration: • 01.2022 - 05.2022
+  summary: Разработка полнофункционального Spring 5/JPA enterprise-приложения c авторизацией и правами доступа на основе ролей на самом востребованном Java стеке: Maven, Spring MVC, Security, JPA(Hibernate), REST(Jackson), JUnit 5, Bootstrap (css,js), datatables, jQuery + plugins, Java 8 Stream and Time API, миграцию на JDK 17, сохранением в базах данных PostgreSQL и HSQLDB и деплоем в облачный сервис Heroku.<ul class="resume-item-list"><li>Реализация сохранения в базы PostgreSQL и HSQLDB на основе Spring JDBC, JPA(Hibernate) и Spring-Data-JPA</li><li>Реализация и тестирование REST и AJAX контроллеров (более 130 JUnit тестов)</li><li>реализация клиента на Bootstrap (css/js), datatables, jQuery + plugins.</li></ul>
 
 # Director of Digital Stratgy
 - company: United Nations Human Rights Council
