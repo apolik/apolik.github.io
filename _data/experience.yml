@@ -8,12 +8,11 @@
 # Director of Digital Stratgy
 - company: <a href="https://github.com/apolik/graduation">Пет проект Voting System Application</a>
   position: 
-  duration:  02.2022 &mdash; 05.2022
+  duration: 02.2022 &mdash; 05.2022
   summary: Разработка REST&mdash;API клиента без фронтенда на стеке Java 17, Spring Boot, JUnit5, Hibernate ORM, AssertJ, Apache Tomcat, Hibernate Validator, SLF4J, Json Jackson, Springdoc OpenAPI UI, Mockito, Docker, Caffeine cache, Hamcrest <ul class="resume-item-list"><li>Реализация сохранения в базу H2 на основе Spring Data JPA</li><li>Реализация и тестирование REST контроллеров (более 50 JUnit тестов)</li><li>Реализация полноценной Swagger-UI документации</li></ul>
 
-
 # Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+- company: <a href="https://javarush.ru/users/2318476">Javarush &mdash; онлайн курс обучения программированию на Java</a>
+  position:
+  duration: 06.21 &mdash; 11.2021
+  summary:
