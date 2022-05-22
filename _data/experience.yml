@@ -6,7 +6,7 @@
   summary: Разработка полнофункционального Spring 5/JPA enterprise&mdash;приложения c авторизацией и правами доступа на основе ролей на самом востребованном Java стеке Maven, Spring MVC, Security, JPA(Hibernate), REST(Jackson), JUnit 5, Bootstrap (css,js), datatables, jQuery + plugins, Java 8 Stream and Time API, миграцию на JDK 17, сохранением в базах данных PostgreSQL и HSQLDB и деплоем в облачный сервис Heroku <ul class="resume-item-list"><li>Реализация сохранения в базы PostgreSQL и HSQLDB на основе Spring JDBC, JPA(Hibernate) и Spring Data JPA</li><li>Реализация и тестирование REST и AJAX контроллеров (более 130 JUnit тестов)</li><li>Реализация клиента на Bootstrap (css/js), datatables, jQuery + plugins.</li></ul>
 
 # Director of Digital Stratgy
-- company: <a href="https://github.com/apolik/graduation">Пет&mdash;проект Voting System Application</a>
+- company: <a href="https://github.com/apolik/graduation">Пет проект Voting System Application</a>
   position: 
   duration:  02.2022 &mdash; 05.2022
   summary: Разработка REST&mdash;API клиента без фронтенда на стеке Java 17, Spring Boot, JUnit5, Hibernate ORM, AssertJ, Apache Tomcat, Hibernate Validator, SLF4J, Json Jackson, Springdoc OpenAPI UI, Mockito, Docker, Caffeine cache, Hamcrest <ul class="resume-item-list"><li>Реализация сохранения в базу H2 на основе Spring Data JPA</li><li>Реализация и тестирование REST контроллеров (более 50 JUnit тестов)</li><li>Реализация полноценной Swagger-UI документации</li></ul>
