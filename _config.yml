@@ -20,8 +20,8 @@ resume_contact_email:           "lodjdheheu@gmail.com"
 resume_contact_telephone:       "+7 (915) 186-39-37"
 resume_contact_address:         "lodjdheheu@gmail.com"
 
-resume_header_contact_info:     "г. Москва • тел / WhatsApp / Telegram +7 (915) 186-39-37 • lodjdheheu@gmail.com"
-display_header_contact_info:    "true"
+resume_header_contact_info:     "some info"
+display_header_contact_info:    "false"
 
 resume_header_intro: "<p>Проживаю: г. Москва</p><p>Занятость: полная занятость</p><p>График работы: удаленная работа, гибкий график, полный день, сменный график</p>"
 
