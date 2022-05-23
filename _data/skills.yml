@@ -5,7 +5,7 @@
 
 # Communications strategy
 - skill: Базы данных
-  description: <ul class="resume-item-list"><li>SQL: PostgreSQL, MySQL</li><li>NOSQL: -</li></ul>
+  description: PostgreSQL, H2, MySql, HSQLDB, SQLite
 
 # Digital content development and creation
 - skill: Другие знания
