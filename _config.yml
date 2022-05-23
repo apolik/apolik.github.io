@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "false"
 resume_name:                    "Артём Поликарпов"
-resume_title:                   "Желаемая должность: Java-разработчик"
+resume_title:                   "Java Backend Разработчик"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "lodjdheheu@gmail.com"
