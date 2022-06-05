@@ -1,11 +1,11 @@
 # Skills
 # Organizational leadership
 - skill: Тех. стек
-  description: Java, Spring Framework, Hibernate, Docker, ActiveMQ, Mockito, JUnit
+  description: Java, Spring Framework, Hibernate, Docker, JMS, Mockito, JUnit
 
 # Communications strategy
 - skill: Базы данных
-  description: PostgreSQL, H2DB, MySQL, HSQLDB, SQLite, MondoDB
+  description: PostgreSQL, H2DB, MySQL, HSQLDB, SQLite, MongoDB
 
 # Digital content development and creation
 - skill: Другие знания
