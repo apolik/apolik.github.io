@@ -21,9 +21,3 @@
   position: 
   duration: 02.2022 &mdash; 05.2022
   summary: Разработка REST&mdash;API клиента без фронтенда на стеке Java 17, Spring Boot, JUnit5, Hibernate ORM, AssertJ, Apache Tomcat, Hibernate Validator, SLF4J, Json Jackson, Springdoc OpenAPI UI, Mockito, Docker, Caffeine cache, Hamcrest <ul class="resume-item-list"><li>Реализация сохранения в базу H2 на основе Spring Data JPA</li><li>Реализация и тестирование REST контроллеров (более 50 JUnit тестов)</li><li>Реализация полноценной Swagger-UI документации</li></ul>Ссылка на репозиторий&colon; https&colon;//github.com/apolik/graduation
-
-# Communications Coordinator
-# - company: <a href="https://javarush.ru/users/2318476">Javarush курс обучения программированию на Java</a>
-#   position:
-#   duration: 06.2021 &mdash; 11.2021
-#   summary:
