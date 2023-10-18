@@ -5,6 +5,11 @@
 #   position:
 #   duration: 02.2022 &mdash; текущее время
 #   summary: Learn Spring with the most modern and comprehensive course available for Spring Framework 5 and Spring Boot 2. You will see how to build multiple real world applications using Spring Framework 5. Inside Course <ul class="resume-item-list"><li>Spring Boot 2, Spring Data JPA, Spring MVC, Spring MockMVC, Spring WebFlux, Spring Web Client, Spring Data MongoDB, Spring RestDocs</li><li>Hibernate, Project Lombok, MapStruct, Docker</li><li>Maven, Gradle, JUnit 4 and JUnit 5, Mockito</li></ul>
+
+- company: <a href="https://javaops.ru/view/development#projects">Участие в командной разработке приложения для университета JavaRush</a>
+  position: Разработчик
+  duration: 02.2022 &mdash; 06.2023
+  summary: Разработка приложение системы ведения проектов (mini-jira) с использование технологий: Java 17, Spring (boot, data, mvc, security), Liquidbase, JUnit 5, OAuth2. Реализация разворачивания окружения сервера, UI администрирования пользователей, почтовой рассылки, подтверждения/восстановления пароля
   
 - company: <a href="http://javaops.ru/view/topjava">Стажировка TopJava Enterprise Java-разработчик</a>
   position:
