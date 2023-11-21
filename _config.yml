@@ -14,13 +14,13 @@ resume_name:                    "Артём Поликарпов"
 resume_title:                   "Java Backend Разработчик"
 
 # used for the contact button in _layouts/resume.html
-resume_contact_email:           "a.poIikarpov@proton.me"
+resume_contact_email:           "lodjdheheu@gmail.com"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
 resume_contact_telephone:       "+7 (915) 186-39-37"
-resume_contact_address:         "a.poIikarpov@proton.me"
+resume_contact_address:         "lodjdheheu@gmail.com"
 
-resume_header_contact_info:     "a.poIikarpov@proton.me | Whatsapp | Telegram | +7 (915) 186-39-37 | Москва, РФ"
+resume_header_contact_info:     "lodjdheheu@gmail.com | Whatsapp | Telegram | +7 (915) 186-39-37 | Москва, РФ"
 display_header_contact_info:    "true"
 
 resume_header_intro: "<p>Проживаю: г. Москва<br>Занятость: частичная занятость<br>График работы: удаленная работа, гибкий график, сменный график</p>"
