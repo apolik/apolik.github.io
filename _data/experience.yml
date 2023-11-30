@@ -8,8 +8,8 @@
 
 - company: <a href="https://javaops.ru/view/development#projects">Участие в командной разработке приложения для университета JavaRush</a>
   position: Разработчик
-  duration: 02.2022 &mdash; 06.2023
-  summary: Разработка приложение системы ведения проектов (mini&mdash;jira) с использование технологий Java 17, Spring (boot, data, mvc, security), Liquidbase, JUnit 5, OAuth2. Реализация разворачивания окружения сервера, UI администрирования пользователей, почтовой рассылки, подтверждения/восстановления пароля
+  duration: 02.2022 &mdash; 06.2022
+  summary: Разработка приложения системы ведения проектов (mini&mdash;jira) с использованием технологий Java 17, Spring (boot, data, mvc, security), Liquidbase, JUnit 5, OAuth2. Реализация разворачивания окружения сервера, UI администрирования пользователей, почтовой рассылки, подтверждения/восстановления пароля
   
 - company: <a href="http://javaops.ru/view/topjava">Стажировка TopJava Enterprise Java-разработчик</a>
   position:
