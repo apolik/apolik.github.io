@@ -166,9 +166,9 @@
       <!-- end Education -->
       {% endif %}
       
-  <!--    {% if site.resume_section_associations %}
+     {% if site.resume_section_associations %}
       <!-- begin Associations -->
-<!--       <section class="content-section">
+       <section class="content-section">
 
         <header class="section-header">
           <h2>Обо мне</h2>
@@ -176,15 +176,15 @@
 
         {% for association in site.data.associations %}
         <div class="resume-item" itemscope itemprop="memberOf" itemtype="http://schema.org/Organization">
-<!--           <h3 class="resume-item-title" itemprop="name">{% if association.url %}<a href="{{ association.url }}">{{ association.organization }}</a>{% else %}{{ association.organization }}{% endif %}</h3> -->
-<!--           <h4 class="resume-item-details" itemprop="description">{{ association.role }} &bull; {{ association.year }}</h4> -->
-   <!--       <p class="resume-item-copy">{{ association.summary }}</p>
-   <!--     </div> -->
-   <!--     {% endfor %}
+           <h3 class="resume-item-title" itemprop="name">{% if association.url %}<a href="{{ association.url }}">{{ association.organization }}</a>{% else %}{{ association.organization }}{% endif %}</h3> -->
+          <h4 class="resume-item-details" itemprop="description">{{ association.role }} &bull; {{ association.year }}</h4> -->
+         <p class="resume-item-copy">{{ association.summary }}</p>
+        </div> -->
+        {% endfor %}
 
       </section>
       <!-- end Associations -->
-<!--       {% endif %} -->
+      {% endif %}
 
       {% if site.resume_section_interests %}
       <!-- begin Interests -->
