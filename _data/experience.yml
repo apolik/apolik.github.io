@@ -7,7 +7,7 @@
 #   summary: Learn Spring with the most modern and comprehensive course available for Spring Framework 5 and Spring Boot 2. You will see how to build multiple real world applications using Spring Framework 5. Inside Course <ul class="resume-item-list"><li>Spring Boot 2, Spring Data JPA, Spring MVC, Spring MockMVC, Spring WebFlux, Spring Web Client, Spring Data MongoDB, Spring RestDocs</li><li>Hibernate, Project Lombok, MapStruct, Docker</li><li>Maven, Gradle, JUnit 4 and JUnit 5, Mockito</li></ul>
 
 - company: ARK Software
-  position: DevOps/SRE
+  position: Middle+ DevOps/SRE
   duration: 02.2024 &mdash; текущее время
   summary: "<p><b>Ключевые результаты:</b> <br>- Перенес сервисы с Docker в Kubernetes, что повысило стабильность и доступность приложений. <br>- Настроил процесс CI/CD, что упростило и ускорило разворачивание сервисов в кластере. <br>- Настроил инструменты мониторинга, логирования и профилирования, что позволило проще и глубже анализировать инциденты. <br>- Настроил авто-обновление сертификатов безопасноти, что ислючило даунтайм сервисов во время их ручного обновления. <br>- Обучил членов команды, ранее не работавших с Kubernetes, самостоятельно разворачивать приложения на новом кластере. </p>"
 
