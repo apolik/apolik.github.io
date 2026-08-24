@@ -1,13 +1,2 @@
-# Skills
-# Organizational leadership
 - skill: Тех. стек
-  description: "<p>Devops/SRE: Kubernetes, Helm, FluxCD, Grafana, Cilium, GatewayAPI, OpenTelemetry, Nvidia Gpu Operator <br><br>Разработка: Go, Python </p>"
-
-
-# Communications strategy
-- skill: Базы данных
-  description: PostgreSQL, MySQL, MongoDB
-
-# Digital content development and creation
-# - skill: Другие знания
-#   description: JavaScript, VueJS, HTML, CSS
+  description: "<p>Devops/SRE: Kubernetes, Helm, FluxCD, Grafana, Cilium, GatewayAPI, OpenTelemetry, Nvidia Gpu Operator <br>Разработка: Go (gRPC, k8s operators), Python (Django/FastAPI) <br>Базы данных: PostgreSQL (CNPG/Patroni) </p>"
