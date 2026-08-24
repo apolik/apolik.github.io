@@ -1,7 +1,7 @@
 # Skills
 # Organizational leadership
 - skill: Тех. стек
-  description: "<p>Backend: Java, Kotlin, Python, Spring Framework, Django, Flask <br><br>Devops: Kubernetes, Helm, GitOps, FluxCD, Prometheus-Grafana-Loki, K3S HA, AWS, GCP</p>"
+  description: "<p>Devops/SRE: Kubernetes, Helm, FluxCD, Grafana, Cilium, GatewayAPI, OpenTelemetry, Nvidia Gpu Operator <br><br>Разработка: Go, Python/p>"
 
 
 # Communications strategy
