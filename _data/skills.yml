@@ -1,2 +1,2 @@
 - skill: Тех. стек
-  description: "<p>Devops/SRE: Kubernetes, Helm, FluxCD, Grafana, Cilium, GatewayAPI, OpenTelemetry, Nvidia Gpu Operator <br>Разработка: Go (gRPC, k8s operators), Python (Django/FastAPI) <br>Базы данных: PostgreSQL (CNPG/Patroni) </p>"
+  description: "<p>Devops/SRE: Kubernetes, Helm, FluxCD, Grafana, Prometheus, Loki, Alloy, Tempo, Cilium, GatewayAPI, OpenTelemetry, Nvidia Gpu Operator, Talos OS, Longhorn, Harbor, Redis, External Secrets, Vault, KeyCloak <br>Разработка: Go (gRPC, Kubernetes Operators), Python (Django, FastAPI) <br>Базы данных: PostgreSQL (CNPG/Patroni) </p>"
