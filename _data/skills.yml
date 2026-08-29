@@ -1,2 +1,14 @@
-- skill: Тех. стек
-  description: "<p><b>Devops / SRE:</b> Kubernetes, Helm, FluxCD, ArgoCD, Cilium, Gateway API, Talos OS, Longhorn, Nvidia GPU Operator, Harbor, External Secrets, Vault, Keycloak, Redis, Terraform, Ansible, Kafka, WireGuard <br><b>Observability:</b> Prometheus, Grafana, Loki, Alloy, Tempo, OpenTelemetry <br><b>Разработка:</b> Go, Python, gRPC/Protobuf, concurrency (goroutines, channels, context), Kubernetes Operators/Controllers, envtest/Ginkgo <br><b>Базы данных:</b> PostgreSQL (CNPG/Patroni) <br><b>Провайдеры:</b> Hetzner, AWS, GCP, Yandex Cloud </p>"
+- skill: devops
+  description: "<p><b>DevOps / SRE:</b> Kubernetes, Helm, FluxCD, ArgoCD, Cilium, Gateway API, Talos OS, Longhorn, Nvidia GPU Operator, Harbor, External Secrets, Vault, Keycloak, Redis, Terraform, Ansible, Kafka, WireGuard</p>"
+
+- skill: observability
+  description: "<p><b>Observability:</b> Prometheus, Grafana, Loki, Alloy, Tempo, OpenTelemetry</p>"
+
+- skill: dev
+  description: "<p><b>Разработка:</b> Go, Python, gRPC/Protobuf, concurrency (goroutines, channels, context), Kubernetes Operators/Controllers, envtest/Ginkgo</p>"
+
+- skill: databases
+  description: "<p><b>Базы данных:</b> PostgreSQL (CNPG/Patroni)</p>"
+
+- skill: cloud
+  description: "<p><b>Провайдеры:</b> Hetzner, AWS, GCP, Yandex Cloud</p>"
