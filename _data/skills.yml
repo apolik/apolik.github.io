@@ -1,14 +1,24 @@
 - skill: devops
-  description: "<b>DevOps / SRE:</b> Kubernetes, Helm, FluxCD, ArgoCD, Cilium, Gateway API, Talos OS, Longhorn, Nvidia GPU Operator, Harbor, External Secrets, Vault, Keycloak, Redis, Terraform, Ansible, Kafka, WireGuard"
+  description: "<b>Kubernetes и оркестрация:</b> Kubernetes, Helm, Kustomize, Docker, Talos OS, Cilium (eBPF), Gateway API, Ingress, RBAC, Pod Security, Longhorn, NVIDIA GPU Operator, HPA/VPA, cert-manager"
 
-- skill: observability
-  description: "<b>Observability:</b> Prometheus, Grafana, Loki, Alloy, Tempo, OpenTelemetry"
+- skill: iac
+  description: "<b>CI/CD и IaC:</b> GitOps, FluxCD, ArgoCD, GitHub Actions, Terraform, Ansible, Harbor, Git"
+
+- skill: sre
+  description: "<b>Observability и надёжность:</b> Prometheus, Alertmanager, Grafana, Loki, Tempo, Alloy, OpenTelemetry, SLI/SLO, error budget, incident management, postmortem/RCA, HA, disaster recovery, backup/restore, chaos Engineering, fault Injection"
+
+- skill: linux
+  description: "<b>Linux и сети:</b> сетевой стек и неймспейсы, cgroups/capabilities, отладка нод (immutable OS), Nginx, WireGuard, Bash"
 
 - skill: dev
-  description: "<b>Разработка:</b> Go, Python, gRPC/Protobuf, concurrency (goroutines, channels, context), Kubernetes Operators/Controllers, envtest/Ginkgo"
+  description: "<b>Разработка:</b> Go (goroutines, channels, context), Python, gRPC/Protobuf, Kubernetes Operators/Controllers, envtest/Ginkgo"
 
-- skill: databases
-  description: "<b>Базы данных:</b> PostgreSQL (CNPG/Patroni)"
+- skill: brokers
+  description: "<b>Данные и брокеры:</b> PostgreSQL (CloudNativePG, Patroni), Redis, Kafka, S3-совместимое хранилище"
 
 - skill: cloud
-  description: "<b>Провайдеры:</b> Hetzner, AWS, GCP, Yandex Cloud"
+  description: "<b>Облака и провайдеры:</b> Hetzner, AWS, GCP, Yandex Cloud"
+  
+- skill: security
+  description: "<b>Данные и брокеры:</b> Vault, External Secrets, Keycloak (SSO/OIDC), ACL, PoLP, SSOT, сетевые политики, управление доступом"
+  
