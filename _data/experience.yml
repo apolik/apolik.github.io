@@ -1,11 +1,6 @@
 # Jobs
 # VP of Global Communications
 
-# - company: <a href="https://www.udemy.com/course/spring-framework-5-beginner-to-guru/">Spring Framework 5 Beginner to Guru</a>
-#   position:
-#   duration: 02.2022 &mdash; текущее время
-#   summary: Learn Spring with the most modern and comprehensive course available for Spring Framework 5 and Spring Boot 2. You will see how to build multiple real world applications using Spring Framework 5. Inside Course <ul class="resume-item-list"><li>Spring Boot 2, Spring Data JPA, Spring MVC, Spring MockMVC, Spring WebFlux, Spring Web Client, Spring Data MongoDB, Spring RestDocs</li><li>Hibernate, Project Lombok, MapStruct, Docker</li><li>Maven, Gradle, JUnit 4 and JUnit 5, Mockito</li></ul>
-
 - company: ООО АРК СТУДИО
   position: DevOps/SRE
   duration: 02.2024 &mdash; текущее время
@@ -14,15 +9,4 @@
 - company: ИП Григорий Кислин Ефимович
   position: Java backend
   duration: 02.2023 &mdash; 06.2023
-  summary: "<p>- Разрабатывал в команде приложение для управления проектами (аналог Jira) на передовом стеке Java 17 и Spring Boot. <br>- Внедрил инструменты администрирования пользователей, включая настройку серверного окружения, создание интерфейса для управления пользователями, а также функционал восстановления пароля через электронную почту. <br>- Повысил безопасность системы за счет интеграции современных протоколов аутентификации и использования автоматизированного тестирования.</p>"
-  
-# - company: <a href="http://javaops.ru/view/topjava">Стажировка TopJava Enterprise Java-разработчик</a>
-#   position:
-#   duration: 01.2022 &mdash; 05.2022
-#   summary: Разработка полнофункционального Spring 5/JPA enterprise&mdash;приложения c авторизацией и правами доступа на основе ролей на самом востребованном Java стеке Maven, Spring MVC, Security, JPA(Hibernate), REST(Jackson), JUnit 5, Bootstrap (css,js), datatables, jQuery + plugins, Java 8 Stream and Time API, миграцией на JDK 17, с сохранением в базах данных PostgreSQL и HSQLDB и деплоем в облачный сервис Heroku <ul class="resume-item-list"><li>Реализация сохранения в базы PostgreSQL и HSQLDB на основе Spring JDBC, JPA(Hibernate) и Spring Data JPA</li><li>Реализация и тестирование REST и AJAX контроллеров (более 130 JUnit тестов)</li><li>Реализация клиента на Bootstrap (css/js), datatables, jQuery + plugins.</li></ul>
-
-# Director of Digital Stratgy
-# - company: <a href="https://github.com/apolik/graduation">Пет проект Voting System Application</a>
-#   position: 
-#   duration: 02.2022 &mdash; 05.2022
-#   summary: Разработка REST&mdash;API клиента без фронтенда на стеке Java 17, Spring Boot, JUnit5, Hibernate ORM, AssertJ, Apache Tomcat, Hibernate Validator, SLF4J, Json Jackson, Springdoc OpenAPI UI, Mockito, Docker, Caffeine cache, Hamcrest <ul class="resume-item-list"><li>Реализация сохранения в базу H2 на основе Spring Data JPA</li><li>Реализация и тестирование REST контроллеров (более 50 JUnit тестов)</li><li>Реализация полноценной Swagger-UI документации</li></ul>
+  summary: "<p>- Разрабатывал в команде систему управления проектами (аналог Jira) на Java 17 / Spring Boot: администрирование пользователей, аутентификация, настройка серверного окружения, автотесты</p>"
