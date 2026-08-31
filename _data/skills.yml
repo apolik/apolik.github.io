@@ -5,7 +5,7 @@
   description: "<b>CI/CD и IaC:</b> GitOps, FluxCD, ArgoCD, GitHub Actions, Terraform, Ansible, Harbor, Git"
 
 - skill: sre
-  description: "<b>Observability и надёжность:</b> Prometheus, Alertmanager, Grafana, Loki, Tempo, Alloy, OpenTelemetry, SLI/SLO, error budget, incident management, postmortem/RCA, HA, disaster recovery, backup/restore, chaos Engineering, fault Injection"
+  description: "<b>Observability и надёжность:</b> Prometheus, Alertmanager, Grafana, Loki, Tempo, Alloy, OpenTelemetry, Pyroscope, SLI/SLO, error budget, incident management, postmortem/RCA, HA, disaster recovery, backup/restore, chaos engineering, fault injection"
 
 - skill: linux
   description: "<b>Linux и сети:</b> сетевой стек и неймспейсы, cgroups/capabilities, отладка нод (immutable OS), Nginx, WireGuard, Bash"
@@ -20,5 +20,4 @@
   description: "<b>Облака и провайдеры:</b> Hetzner, AWS, GCP, Yandex Cloud"
   
 - skill: security
-  description: "<b>Данные и брокеры:</b> Vault, External Secrets, Keycloak (SSO/OIDC), ACL, PoLP, SSOT, сетевые политики, управление доступом"
-  
+  description: "<b>Безопасность:</b> Vault, External Secrets, Keycloak (SSO/OIDC), ACL, PoLP, SSOT, сетевые политики, управление доступом"
